@@ -3,7 +3,9 @@
 "What is the middle path of power and peace?"
 Equinimity.
 
-What is the middle path between inferiority and superiority? Equinimity. 
+What is the middle path between inferiority and superiority? Equinimity.
+
+What is the middle path between suffering and pleasure? Discernment.
 
 The enlightened schizophrenic is still schizophrenic, just not abosrbed in it.
 
