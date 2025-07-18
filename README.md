@@ -10,4 +10,10 @@ The enlightened schizophrenic is still schizophrenic, just not abosrbed in it.
 "What is the middle path of suffering and pleasure?”
 Compassion.
 
-Suffering alone is Hell. Suffering with others is Heaven.
+Suffering alone is Hell. Suffering with others is compassion.
+
+Pleasure alone is delusion. 
+To believe delusions cease, is a delusion
+To believe delusions are finite, is a delusion
+To believe delusions are delusions is a delusion, in that..
+To believe delusions are without purpose is a delusion.
