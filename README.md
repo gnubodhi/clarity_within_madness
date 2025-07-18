@@ -1,7 +1,9 @@
 # clarity_within_madness
 
-"What is the middle path of war?"
+"What is the middle path of power and peace?"
 Equinimity.
+
+What is the middle path between inferiority and superiority? Equinimity. 
 
 The enlightened schizophrenic is still schizophrenic, just not abosrbed in it.
 
