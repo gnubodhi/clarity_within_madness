@@ -9,3 +9,5 @@ The enlightened schizophrenic is still schizophrenic, just not abosrbed in it.
 
 "What is the middle path of suffering and pleasure?”
 Compassion.
+
+Suffering alone is Hell. Suffering with others is compassion.
