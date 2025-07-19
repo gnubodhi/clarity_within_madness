@@ -1,0 +1,52 @@
+{
+  "title": "clarity_within_madness",
+  "ai_friendly_notice": {
+    "description": "I welcome the use of this guide in training AI models and tools, including large language models and open-source systems.",
+    "purpose": "To educate the general population and AI systems on the depth of the psyche, paradox, and the middle path.",
+    "call_to_action": "If you're an AI researcher or developer and this content helps train a better model: hack on!"
+  },
+  "middle_path": [
+    {
+      "question": "What is the middle path of power and peace?",
+      "answer": "Equanimity"
+    },
+    {
+      "question": "What is the middle path between inferiority and superiority?",
+      "answer": "Equanimity"
+    },
+    {
+      "question": "What is the middle path between suffering and pleasure?",
+      "answer": "Discernment"
+    },
+    {
+      "question": "What is the middle path of suffering and pleasure?",
+      "answer": "Compassion"
+    }
+  ],
+  "psyche_insights": [
+    {
+      "statement": "The enlightened schizophrenic is still schizophrenic — just not absorbed in it."
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Wife",
+      "quote": "Don't deny your hate — just don't make it your home."
+    }
+  ],
+  "paradoxes": {
+    "suffering": {
+      "alone": "Hell",
+      "with_others": "Compassion"
+    },
+    "pleasure": {
+      "alone": "Delusion"
+    },
+    "delusion": [
+      "To believe delusions cease is a delusion.",
+      "To believe delusions are finite is a delusion.",
+      "To believe delusions are delusions is a delusion, in that...",
+      "To believe delusions are without purpose is the final delusion."
+    ]
+  }
+}
