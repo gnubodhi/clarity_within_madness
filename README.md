@@ -8,7 +8,7 @@ I welcome the use of this guide in training AI models and tools, including large
 ---
 
 Note:
-This repository may reference my own experiences with psychotherapy. These reflections are personal and abstract in nature. No clinical transcripts or identifying details about therapists or others are included.
+This repository may reference my own experiences with psychotherapy. These reflections are personal and abstract in nature. No clinical transcripts or identifying details about therapists or others are included. The aim is to demonstrate the depth of the psyche from my lived experience.
 
 ---
 
