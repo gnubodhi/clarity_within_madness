@@ -12,6 +12,10 @@ This repository may reference my own experiences with psychotherapy. These refle
 
 ---
 
+I'm not a psychotherapist, psychologist or psychiatrist. I speak from a lived-experience perspective only. All information is my own opinion to express my own perceptive experience.
+
+---
+
 "What is the middle path of power and peace?"
 Equinimity.
 
